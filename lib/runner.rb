@@ -1,3 +1,3 @@
 require_relative "blackjack.rb"
 
-runner
+run_program
